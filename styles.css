@@ -1,0 +1,32 @@
+*, .main-menu li {
+    color: black;
+    background-color:lightcoral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+li, h3 {
+    text-align: left;
+}
+
+.credit {
+    text-align: right;
+}
+
+h1, h3, .main-menu li, .main-menu a, .home-button,.home-button a{
+    background-color: lightpink;
+}
+
+.smallfont {
+    font-size: 12px;
+}
+
+.home-button, .main-menu li {
+    font-weight: bold;
+}
+
+img {
+    width: auto;
+    height: 250;
+}
+
